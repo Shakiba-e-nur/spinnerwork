@@ -1,10 +1,30 @@
 <resources>
-    <string name="app_name">SpinnerWork</string>
+    <string name="app_name">Space</string>
     <string name="submit">Ok</string>
-    <string-array name="title_item">
-        <item>Painting</item>
-        <item>Cooking</item>
-        <item>Traveling</item>
-        <item>Reading</item>
+    <string name="mercury">Mercury</string>
+    <string name="venus">Venus</string>
+    <string name="earth">Earth</string>
+    <string name="mars">Mars</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="saturn">Saturn</string>
+    <string name="neptune">Neptune</string>
+    <string name="pluto">Pluto</string>
+    <string name="mercury_description">Mercury is the smallest and closest planet to the sun in the Solar System.</string>
+    <string name="venus_description">Venus is the second planet from the Sun. It is named after the Roman goddess of love and beauty.</string>
+    <string name="earth_description">Earth is the third planet from the Sun and the only astronomical object known to harbor life.</string>
+    <string name="mars_description">Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury.</string>
+    <string name="jupiter_description">Jupiter is the fifth planet from the Sun and the largest in the Solar System.</string>
+    <string name="saturn_description">Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter.</string>
+    <string name="neptune_description">Neptune is the eighth and farthest-known Solar planet from the Sun.</string>
+    <string name="pluto_description">Pluto (minor planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune.</string>
+    <string-array name="planet_item">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
     </string-array>
 </resources>
